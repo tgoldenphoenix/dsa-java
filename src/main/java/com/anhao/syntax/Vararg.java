@@ -11,7 +11,7 @@ sum(params); // 15
 ```
 */
 
-public class Vararg {
+class Vararg {
     public static void main(String[] args) {
         System.out.println("Sum: " + sum(1, 2));
     }
