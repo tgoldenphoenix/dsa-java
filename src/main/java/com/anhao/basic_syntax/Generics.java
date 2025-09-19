@@ -1,4 +1,4 @@
-package com.anhao.syntax;
+package com.anhao.basic_syntax;
 
 class Generics {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.anhao.syntax;
+package com.anhao.basic_syntax;
 
 public class ProtectedCl {
   protected String protectedVar = "a trong ProtectedCl";

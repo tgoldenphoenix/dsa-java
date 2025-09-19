@@ -1,4 +1,4 @@
-package com.anhao.PolymorphismInterfaceExample;
+package com.anhao.polymorphism_interface;
 
 // Define an interface for shapes
 interface Shape {

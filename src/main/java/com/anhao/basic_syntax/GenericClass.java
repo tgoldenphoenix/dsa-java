@@ -1,4 +1,4 @@
-package com.anhao.syntax;
+package com.anhao.basic_syntax;
 
 // same package
 public class GenericClass extends ProtectedCl {

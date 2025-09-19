@@ -1,4 +1,4 @@
-package com.anhao.syntax;
+package com.anhao.basic_syntax;
 
 class ForEachLoop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.anhao.algorithm;
+package com.anhao.algorithms;
 import java.util.Scanner;
 
 public class EvenOrOdd {

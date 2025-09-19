@@ -1,6 +1,6 @@
 package com.anhao.childClass;
 
-import com.anhao.syntax.ProtectedCl;
+import com.anhao.basic_syntax.ProtectedCl;
 
 // different package
 class SecondGenericClass extends ProtectedCl {

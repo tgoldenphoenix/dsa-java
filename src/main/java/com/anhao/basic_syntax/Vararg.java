@@ -1,4 +1,4 @@
-package com.anhao.syntax;
+package com.anhao.basic_syntax;
 
 /*
 Varargs = variable arguments
