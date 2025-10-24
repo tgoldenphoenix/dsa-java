@@ -1,10 +1,11 @@
 package com.anhao.basic_syntax;
 
-class ForEachLoop {
+class Loop {
     public static void main(String[] args) {
         int[] even_numbers = { 2, 4, 6, 8 };
 
-        for(int number : even_numbers) {
+        // for-each loop
+        for (int number : even_numbers) {
             System.out.println(number);
         }
     }
