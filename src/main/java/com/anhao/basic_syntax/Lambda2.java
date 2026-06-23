@@ -47,6 +47,14 @@ class Person {
         return this.gender;
     }
 
+    public LocalDate getBirthday() {
+        return this.birthday;
+    }
+
+    public String getName() {
+        return this.name;
+    }
+
     public void printPerson() {
         System.out.println("Name: " + name + ", Gender: " + gender + ", Email: " + emailAddress);
     }
@@ -96,6 +104,10 @@ class Person {
         roster.add(person5);
 
         return roster;
+    }
+
+    public static int compareByAge(Person a, Person b) {
+        return a.birthday.compareTo(b.birthday);
     }
 }
 
